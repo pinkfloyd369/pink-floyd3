@@ -1,0 +1,87 @@
+h1{
+	text-align-last: center;
+	color: salmon;
+	font-family: tahoma;
+	font-style: italic;
+}
+body
+{
+
+background-color: salmon;
+	color:black ;
+	font-family: sans-serif ;
+	font-size: 20px;
+	
+	line-height: 1.6em;
+}
+a{
+	text-decoration:none; 
+	color: black;
+
+}
+a:hover{
+	color: yellow;
+}
+.container{
+	width:82%;
+	margin: auto;
+	border: black;
+}
+.para1{
+	background-color: yellow;
+	color: black;
+	border:7px black; 
+	border-style: dotted;
+	padding:20px;
+}
+.categories h2{
+	font-family: lucida;
+	color: white;
+	color: yellow;
+		padding: 20px;}
+	.categories{	
+	border: 6px solid black;
+	padding: 20px;
+	border-radius: 15px;
+	color: black;
+	border-color: yellow; 
+
+}
+.categories ul{
+	padding: auto;
+
+}
+.form{
+	padding: 10px;
+	border:15px;
+	background-color: salmon;
+}
+.form h4{
+	color: solid black;
+	text-decoration: underline;
+
+
+}
+.my-form label{
+	display: block;
+
+
+}
+.my-form input[text="text"]{
+	padding: 8px;
+	width:100%;
+
+}
+.my-form input[type="submit"]{
+	background-color: black;
+	color:#fff;
+	padding: 10px 5px;
+	border: none;
+}
+.block{
+	float: left;
+	border: 10px black;
+	padding: 15px;
+	box-sizing: border-box;
+	
+}
