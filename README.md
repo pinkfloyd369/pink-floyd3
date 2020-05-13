@@ -65,3 +65,29 @@ The Beatles, who are the perfect product and result of everything that rock and 
 	<a href="subscribe.html" target="_blank">in order to subscribe for more info</a>
 </body>
 </html>
+<!DOCTYPE html>
+<!-- saved from url=(0046)file:///C:/Users/admin/Desktop/LEO/submit.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+	<title>form</title>
+	<link rel="stylesheet" type="text/css" href="./form_files/style.css">
+</head>
+<body>
+<h4>subscribe</h4>
+<form class="my-form">
+	<div class="form group">
+		<label>name:</label>
+		<input type="text" name="name">
+	</div>
+	<div class="form group">
+		<label>email:</label>
+		<input type="text" name="email">
+	</div>
+	<div class="form group">
+		<label>message:</label>
+		<textarea name="message"></textarea>
+	</div>
+	<input class="button" type="submit" value="submit">	
+
+</form>
+
+</body></html>
